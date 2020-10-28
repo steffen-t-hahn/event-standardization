@@ -5,7 +5,7 @@ While doing this it reduces the phase space approximately by a factor of twelve.
 
 
 ## Basic code description
-The script XXX.py takes a list of integral position corresponding to the basis defined in GAP XYZ.
+The script example.py takes a list of integral position corresponding to the basis defined in GAP XYZ.
 It is supposed that the first item in the list is the central point around which the event should be normalized.
 The output are the new integral positions corresponding to the same basis.
 
